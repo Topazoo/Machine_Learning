@@ -1,8 +1,8 @@
 from math import sqrt
 import recommendations
 
-'''Code for Calculating Euclidean Distance Scores.
-   2 preferences are mapped on axes to determine
+'''Code for calculating Euclidean Distance scores.
+   Two preferences are mapped on axes to determine
    similarities''' 
 
 def distance(y1, y2, x1, x2):
